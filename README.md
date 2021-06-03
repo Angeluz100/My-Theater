@@ -1,6 +1,6 @@
-# Project 1
+# Movie Project
 
-A simple web app that display Superheros
+My app to add movies that i like.
 
 ## technologies Used
 - HTML5
